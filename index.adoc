@@ -1,0 +1,79 @@
+= Project "Agile Decision Log"
+Janosch Aurel <jseidler@crowdwisely.org>
+:toc: left
+:experimental:
+
+[describe-purpose]
+== [describe] Purpose
+
+	Capture decisions in an agile, sustainable and comprehensible way.
+
+[report-status]
+== [report] Status: kbd:[make-In-Progress-12022-03-22_Ongoing]
+
+[rate]
+== [rate] kbd:[0.0 Stars]
+
+[complexity]
+== Complexity: kbd:[normal]
+
+[duration]
+== Duration: kbd:[30 mins.]
+
+[challenges-this-project-overcomes]
+== Challenge this Project Overcomes
+
+	* ...
+
+
+[ideas-on-which-this-project-builds-upon]
+== Ideas on Which This Project Builds Upon # TBD
+
+	* ...
+
+[prepare-required-resources]
+== [prepare] Required Resources
+
+	* ...
+
+[use-available-resource]
+== [use] Available Resources
+
+	* ...
+
+
+[project-outline]
+== Project Outline
+
+	* [edit] Template
+		** What formats should the template be written in?
+	* [store] Resources
+	* [read] Media on the subject
+
+
+
+[label-tags]
+== [label] Tags
+
+[domains]
+=== Domains
+
+    Psychomotor, Affective
+
+[activities]
+=== Activities
+
+    make-In-Progress-12022-03-22_Ongoing, 
+    
+
+[additional-tags]
+=== Additional Tags
+
+	Agile
+     
+
+[reference-sources]
+== [reference] Sources
+
+	* ...
+

@@ -1,39 +1,34 @@
-== <Short Title of the Issue>
+= <Short Title of the Issue>
+:experimental:
 
-*UserStory:*
+.Overview information of this decision
+[width="50%",cols=">s,^2m",frame="all",options=""]
+|==========================
+|Status         |kbd:[decide-Done]
+|Stakeholders   |Who is involved in deciding this?  
+|Outcome        |What is the desired outcome?
+|Due date       |When is the due date of this decision?
+|Owner          |Who is responsible for seeing this decision through?
+|==========================
 
-<WRITE ONE SENTENCE DESCRIBING THE PROBLEM. (Optional)>
+== User Story
 
-=== Considered Alternatives
+    <WRITE ONE SENTENCE DESCRIBING THE PROBLEM. (Optional)>
 
-* <ALTERNATIVE 1>
-* <ALTERNATIVE 2>
-* <ALTERNATIVE 3>
+== Considered Alternatives
 
-=== Conclusion
+    * <ALTERNATIVE 1>
+    * <ALTERNATIVE 2>
+    * <ALTERNATIVE 3>
 
-* _Chosen Alternative: <ALTERNATIVE 1>_
-* <FURTHER RATIONALE (Optional)>
+== Decision Criteria
 
-=== Comparison (Optional)
+    * A List of Things
+    * Important for making this decision
 
-[cols=",,",options="header",]
-|===
-|<ALTERNATIVE 1> |<ALTERNATIVE 2> |<ALTERNATIVE 3>
-|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
 
-|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+== Conclusion
 
-|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+    * _Chosen Alternative: <ALTERNATIVE 1>_
+    * <FURTHER RATIONALE (Optional)>
 
-| | |
-
-|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
->_
-
-|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
->_
-
-|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
->_
-|===

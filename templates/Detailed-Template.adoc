@@ -18,6 +18,11 @@
     so that ... [benefit].
     
 
+== Background information (Optional)
+
+    Further information explaining the decision to be made.
+    
+
 == Considered Alternatives
 
     * <ALTERNATIVE 1>

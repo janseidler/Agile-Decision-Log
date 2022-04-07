@@ -4,7 +4,7 @@
 .Overview information of this decision
 [width="50%",cols=">s,",frame="all",options=""]
 |==========================
-|Status         |kbd:[decide-Done]
+|Status         |kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>]
 |Stakeholders   |Who is involved in deciding this?  
 |Outcome        |What is the desired outcome?
 |Due date       |When is the due date of this decision?

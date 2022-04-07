@@ -30,8 +30,9 @@
 
 == Decision Criteria
 
-    * A List of Things
-    * Important for making this decision
+    * <CRITERIA 1>
+    * <CRITERIA 2>
+    * <CRITERIA 3>
 
 
 == Conclusion

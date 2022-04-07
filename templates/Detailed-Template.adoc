@@ -1,0 +1,63 @@
+= <Short Title of the Issue>
+:experimental:
+
+.Overview information of this decision
+[width="50%",cols=">s,^2m",frame="all",options=""]
+|==========================
+|Status         |kbd:[decide-Done]
+|Stakeholders   |Who is involved in deciding this?  
+|Outcome        |What is the desired outcome?
+|Due date       |When is the due date of this decision?
+|Owner          |Who is responsible for seeing this decision through?
+|==========================
+
+== User Story
+
+    <WRITE ONE SENTENCE DESCRIBING THE PROBLEM. (Optional)>
+
+== Considered Alternatives
+
+    * <ALTERNATIVE 1>
+    * <ALTERNATIVE 2>
+    * <ALTERNATIVE 3>
+
+== Disqualified Alternatives
+
+    * <DISQUALIFIED ALTERNATIVE 1>
+    * <DISQUALIFIED ALTERNATIVE 2>
+    * <DISQUALIFIED ALTERNATIVE 3>
+
+
+== Decision Criteria
+
+    * A List of Things
+    * Important for making this decision
+
+
+== Conclusion
+
+    * _Chosen Alternative: <ALTERNATIVE 1>_
+    * <FURTHER RATIONALE (Optional)>
+
+== Comparison (Optional)
+
+[cols=",,",options="header",]
+|===
+|<ALTERNATIVE 1> |<ALTERNATIVE 2> |<ALTERNATIVE 3>
+|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+
+|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+
+|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+
+| | |
+
+|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+>_
+
+|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+>_
+
+|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+>_
+|===

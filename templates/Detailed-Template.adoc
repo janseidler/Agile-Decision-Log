@@ -2,7 +2,7 @@
 :experimental:
 
 .Overview information of this decision
-[width="50%",cols=">s,^2m",frame="all",options=""]
+[width="50%",cols=">s,",frame="all",options=""]
 |==========================
 |Status         |kbd:[decide-Done]
 |Stakeholders   |Who is involved in deciding this?  
@@ -32,7 +32,7 @@
     * <DISQUALIFIED ALTERNATIVE 3>
 
 
-== Decision Criteria
+== Decisive Criteria
 
     * <CRITERIA 1>
     * <CRITERIA 2>
@@ -46,8 +46,9 @@
     * <FURTHER RATIONALE (Optional)>
 
 
-== Comparison (Optional)
+== Comparison
 
+.Detailed comparison of alternatives based on decisive criteria
 [cols=",,,",options="header"]
 |===
 |                   |<ALTERNATIVE 1>        |<ALTERNATIVE 2>        |<ALTERNATIVE 3>

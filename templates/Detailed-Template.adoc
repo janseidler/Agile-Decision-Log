@@ -13,7 +13,10 @@
 
 == User Story
 
-    <WRITE ONE SENTENCE DESCRIBING THE PROBLEM. (Optional)>
+    As a ... [role]
+    I want ... [feature],
+    so that ... [benefit].
+    
 
 == Considered Alternatives
 

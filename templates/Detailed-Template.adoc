@@ -18,7 +18,7 @@
     so that ... [benefit].
     
 
-== Background information (Optional)
+== Background (Optional)
 
     Further information explaining the decision to be made.
     

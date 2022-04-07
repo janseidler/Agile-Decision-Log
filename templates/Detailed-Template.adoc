@@ -1,5 +1,29 @@
-= <Short Title of the Issue>
+= <Short Title of the Decision To Be Made>
 :experimental:
+
+++++
+<style>
+td.tableblock {
+    margin: 0;
+    padding: 0;
+}
+td.tableblock p {
+    padding: 0.5rem;
+}
+td.tableblock .bg-yellow p {
+    background-color: yellow;
+}
+td.tableblock .bg-green p {
+    background-color: lime;
+}
+td.tableblock .bg-pink p {
+    background-color: pink;
+}
+td.tableblock .bg-blue p {
+    background-color: RGB(96,197,241);
+}
+</style>
+++++
 
 .Overview information of this decision
 [width="50%",cols=">s,^2m",frame="all",options=""]
@@ -24,6 +48,7 @@
     * <ALTERNATIVE 2>
     * <ALTERNATIVE 3>
 
+
 == Disqualified Alternatives
 
     * <DISQUALIFIED ALTERNATIVE 1>
@@ -36,6 +61,7 @@
     * <CRITERIA 1>
     * <CRITERIA 2>
     * <CRITERIA 3>
+    * <CRITERIA 4>
 
 
 == Conclusion
@@ -43,25 +69,26 @@
     * _Chosen Alternative: <ALTERNATIVE 1>_
     * <FURTHER RATIONALE (Optional)>
 
+
 == Comparison (Optional)
 
-[cols=",,",options="header",]
+[cols=",,,",options="header"]
 |===
-|<ALTERNATIVE 1> |<ALTERNATIVE 2> |<ALTERNATIVE 3>
-|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+|                   |<ALTERNATIVE 1>    |<ALTERNATIVE 2>    |<ALTERNATIVE 3>
+|<Criteria 1>       [.bg-green]|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
 
-|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+|<Criteria 2>       |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
 
-|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+[.bg-yellow]|<Criteria 3>       |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
 
-| | |
+|                   |                   |                   |
 
-|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+|       |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
 >_
 
-|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+|       |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
 >_
 
-|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+|       |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
 >_
 |===

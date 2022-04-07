@@ -1,0 +1,39 @@
+== <Short Title of the Issue>
+
+*UserStory:*
+
+<WRITE ONE SENTENCE DESCRIBING THE PROBLEM. (Optional)>
+
+=== Considered Alternatives
+
+* <ALTERNATIVE 1>
+* <ALTERNATIVE 2>
+* <ALTERNATIVE 3>
+
+=== Conclusion
+
+* _Chosen Alternative: <ALTERNATIVE 1>_
+* <FURTHER RATIONALE (Optional)>
+
+=== Comparison (Optional)
+
+[cols=",,",options="header",]
+|===
+|<ALTERNATIVE 1> |<ALTERNATIVE 2> |<ALTERNATIVE 3>
+|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+
+|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+
+|_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_ |_+ < ARGUMENT PRO >_
+
+| | |
+
+|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+>_
+
+|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+>_
+
+|_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA >_ |_- < ARGUMENT CONTRA
+>_
+|===

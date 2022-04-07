@@ -1,59 +1,74 @@
-= Project "Agile Decision Log"
-Janosch Aurel <jseidler@crowdwisely.org>
+= Project "Agile Decision Log" kbd:[make-In-Progress-12022-03-22_Ongoing]
+:author: Janosch Aurel 
+:email: jseidler@crowdwisely.org
 :toc: left
 :experimental:
 
-[describe-purpose]
-== [describe] Purpose
+[define-purpose]
+== kbd:[describe] Purpose
 
 	Capture decisions in an agile, sustainable and comprehensible way.
 
+
 [report-status]
-== [report] Status: kbd:[make-In-Progress-12022-03-22_Ongoing]
+== kbd:[report] Status: kbd:[make-In-Progress-12022-03-22_Ongoing]
+
 
 [rate]
-== [rate] kbd:[0.0 Stars]
-
-[complexity]
-== Complexity: kbd:[normal]
-
-[duration]
-== Duration: kbd:[30 mins.]
-
-[challenges-this-project-overcomes]
-== Challenge this Project Overcomes
-
-	* ...
+== kbd:[rate] kbd:[0.0 Stars]
 
 
-[ideas-on-which-this-project-builds-upon]
-== Ideas on Which This Project Builds Upon # TBD
-
-	* ...
-
-[prepare-required-resources]
-== [prepare] Required Resources
-
-	* ...
-
-[use-available-resource]
-== [use] Available Resources
-
-	* ...
+[estimate-complexity]
+== kbd:[estimate] Complexity: kbd:[normal]
 
 
-[project-outline]
-== Project Outline
+[estimate-duration]
+== kbd:[estimate] Duration: kbd:[X mins.]
 
-	* [edit] Template
+
+[link-challenges-this-project-overcomes]
+== kbd:[link-Challenges] This Project Overcomes
+
+	* https://source.crowdwisely.org/co-create/issue-challenges/-/blob/main/Capture-Decisions-in-a-Sustainable-and-Comprehensible-Way%5Bissue-Challenge-Done-12022-03-21_document_capture_decide_Sustainability_Simplicity_Psychomotor%5D.adoc[Capture Decisions in a Sustainable and Comprehensible Way kbd:[issue-Challenge-Done-12022-03-21]]
+
+
+[link-ideas-on-which-this-project-builds-upon]
+== kbd:[link-Ideas] On Which This Project Builds upon
+
+    * https://source.crowdwisely.org/co-create/conceive-ideas/on-how-to-overcome-capture-decisions-in-a-sustainable-and-comprehensible-way[On How to Overcome Capture Decisions in a Sustainable and Comprehensible Way]
+
+
+[use-resources-for-project-to-succeed]
+== kbd:[use-Resources] For Project to succeed
+
+[required-resources]
+=== Required Resources
+
+    * ...
+
+[available-resources]
+=== Available Resources
+
+	* GitLab
+
+
+[outline-project]
+== kbd:[outline] Project
+
+	* Template kbd:[edit]
 		** What formats should the template be written in?
-	* [store] Resources
-	* [read] Media on the subject
+	* Resources kbd:[store]
+	* Media on the subject kbd:[read]
 
+
+[edit-templates]
+== kbd:[edit] templates
+
+	* Simple template
 
 
 [label-tags]
-== [label] Tags
+== kbd:[label] Tags
 
 [domains]
 === Domains

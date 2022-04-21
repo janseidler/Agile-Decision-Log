@@ -62,9 +62,9 @@
 
 
 [edit-templates]
-== kbd:[edit] templates
+== kbd:[edit] Templates
 
-	* Simple template
+	* https://source.crowdwisely.org/co-create/make-projects/agile-decision-log/-/tree/main/templates[Templates for capturing agile decisions kbd:[use-Resources, Templates]]
 
 
 [label-tags]

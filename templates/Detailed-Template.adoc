@@ -1,4 +1,4 @@
-= <Short Title of the Decision To Be Made>
+= <Short Title of the Decision To Be Made> kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>]
 :experimental:
 
 .Overview information of this decision
@@ -51,7 +51,7 @@
     * <CRITERIA 4>
 
 
-== kbd:[decide-Stauts] Conclusion
+== kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>] Conclusion
 
     * _Chosen Alternative: <ALTERNATIVE 1>_
     * <FURTHER RATIONALE (Optional)>

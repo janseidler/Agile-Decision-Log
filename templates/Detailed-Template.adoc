@@ -11,33 +11,39 @@
 |Owner          |Who is responsible for seeing this decision through?
 |==========================
 
-== User Story
+
+[write-user-story]
+== kbd:[write] User Story
 
     As a ... [role]
     I want ... [feature],
     so that ... [benefit].
     
 
-== Background (Optional)
+[describe-background]
+== kbd:[describe] Background (Optional)
 
     Further information explaining the decision to be made.
     
 
-== Considered Alternatives
+[consider-alternatives]
+== kbd:[consider] Alternatives
 
     * <ALTERNATIVE 1>
     * <ALTERNATIVE 2>
     * <ALTERNATIVE 3>
 
 
-== Disqualified Alternatives
+[disqualify-alternatives]
+== kbd:[disqualify] Alternatives
 
     * <DISQUALIFIED ALTERNATIVE 1>
     * <DISQUALIFIED ALTERNATIVE 2>
     * <DISQUALIFIED ALTERNATIVE 3>
 
 
-== Decisive Criteria
+[define-criteria]
+== kbd:[define] Criteria
 
     * <CRITERIA 1>
     * <CRITERIA 2>
@@ -45,15 +51,16 @@
     * <CRITERIA 4>
 
 
-== Conclusion
+== kbd:[decide-Stauts] Conclusion
 
     * _Chosen Alternative: <ALTERNATIVE 1>_
     * <FURTHER RATIONALE (Optional)>
 
 
-== Comparison
+[compare-alternatives]
+== kbd:[compare] Alternatives
 
-.Detailed comparison of alternatives based on decisive criteria
+.Detailed comparison of alternatives based on defined criteria
 [cols=",,,",options="header"]
 |===
 |                   |<ALTERNATIVE 1>        |<ALTERNATIVE 2>        |<ALTERNATIVE 3>
@@ -63,3 +70,18 @@
 
 |<Criteria 3>       |_- <CONTRA>_           |_+ <PRO>_              |_~ <UNCLEAR>_
 |===
+
+
+[label-tags]
+== kbd:[label] Tags
+
+	co-create, log-decisions, decide, use-Resources, Templates
+	
+	
+[reference-sources]
+== kbd:[reference-sources]
+
+* Source Nr 1
+* Source Nr 2
+	** Source Nr 2.1 (related to higher source)
+* Source Nr 3

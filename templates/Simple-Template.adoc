@@ -1,34 +1,73 @@
-= <Short Title of the Issue>
+= <Short Title of the Decision To Be Made> kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>]
 :experimental:
 
 .Overview information of this decision
-[width="50%",cols=">s,^2m",frame="all",options=""]
+[width="50%",cols=">s,",frame="all",options=""]
 |==========================
-|Status         |kbd:[decide-Done]
+|Status         |kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>]
 |Stakeholders   |Who is involved in deciding this?  
 |Outcome        |What is the desired outcome?
 |Due date       |When is the due date of this decision?
 |Owner          |Who is responsible for seeing this decision through?
 |==========================
 
-== User Story
 
-    <WRITE ONE SENTENCE DESCRIBING THE PROBLEM. (Optional)>
+[write-user-story]
+== kbd:[write] User Story
 
-== Considered Alternatives
+    As a ... [role]
+    I want ... [feature],
+    so that ... [benefit].
+    
+
+[describe-background]
+== kbd:[describe] Background (Optional)
+
+    Further information explaining the decision to be made.
+    
+
+[consider-alternatives]
+== kbd:[consider] Alternatives
 
     * <ALTERNATIVE 1>
     * <ALTERNATIVE 2>
     * <ALTERNATIVE 3>
 
-== Decision Criteria
 
-    * A List of Things
-    * Important for making this decision
+[disqualify-alternatives]
+== kbd:[disqualify] Alternatives
+
+    * <DISQUALIFIED ALTERNATIVE 1>
+    * <DISQUALIFIED ALTERNATIVE 2>
+    * <DISQUALIFIED ALTERNATIVE 3>
 
 
-== Conclusion
+[define-criteria]
+== kbd:[define] Criteria
+
+    * <CRITERIA 1>
+    * <CRITERIA 2>
+    * <CRITERIA 3>
+    * <CRITERIA 4>
+
+
+== kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>] Conclusion
 
     * _Chosen Alternative: <ALTERNATIVE 1>_
     * <FURTHER RATIONALE (Optional)>
+
+
+[label-tags]
+== kbd:[label] Tags
+
+	co-create, log-decisions, decide, use-Resources, Templates
+	
+	
+[reference-sources]
+== kbd:[reference-sources]
+
+* Source Nr 1
+* Source Nr 2
+	** Source Nr 2.1 (related to higher source)
+* Source Nr 3
 

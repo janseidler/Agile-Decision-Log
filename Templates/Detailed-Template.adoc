@@ -13,9 +13,9 @@
 
 [decider-story]
 == Decider Story kbd:[write]
-As a ... [role]
-I want decide on ... [feature],
-so that ... [benefit].
+	As a ... [role]
+	I want decide on ... [feature],
+	so that ... [benefit].
 
 [background]
 == Background (Optional) kbd:[describe]

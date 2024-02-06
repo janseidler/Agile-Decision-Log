@@ -2,7 +2,7 @@
 :experimental:
 :author: Jan Seidler
 :email: jseidler@crowdwisely.org
-:toc: left
+:toc: left  
 
 Capture decisions in an agile, sustainable and comprehensible way.
 

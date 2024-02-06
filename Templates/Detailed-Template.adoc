@@ -1,4 +1,4 @@
-= <Short Title of the Decision To Be Made> kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>]
+= <Short Title of the Decision To Be Made> kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>]
 :experimental:
 
 .Overview information of this decision
@@ -11,54 +11,41 @@
 |Owner          |Who is responsible for seeing this decision through?
 |==========================
 
+[decider-story]
+== Decider Story kbd:[write]
+	As a ... [role]
+	I want decide on ... [feature],
+	so that ... [benefit].
 
-[write-user-story]
-== kbd:[write] User Story
+[background]
+== Background (Optional) kbd:[describe]
+Further information explaining the decision to be made.
 
-    As a ... [role]
-    I want ... [feature],
-    so that ... [benefit].
-    
+[alternatives]
+== Alternatives kbd:[consider] 
+* <ALTERNATIVE 1>
+* <ALTERNATIVE 2>
+* <ALTERNATIVE 3>
 
-[describe-background]
-== kbd:[describe] Background (Optional)
+[alternatives]
+== Alternatives kbd:[disqualify] 
+* <DISQUALIFIED ALTERNATIVE 1>
+* <DISQUALIFIED ALTERNATIVE 2>
+* <DISQUALIFIED ALTERNATIVE 3>
 
-    Further information explaining the decision to be made.
-    
+[criteria]
+== Criteria kbd:[define] 
+* <CRITERIA 1>
+* <CRITERIA 2>
+* <CRITERIA 3>
+* <CRITERIA 4>
 
-[consider-alternatives]
-== kbd:[consider] Alternatives
+== Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE> 
+* _Chosen Alternative: <ALTERNATIVE 1>_
+* <FURTHER RATIONALE (Optional)>
 
-    * <ALTERNATIVE 1>
-    * <ALTERNATIVE 2>
-    * <ALTERNATIVE 3>
-
-
-[disqualify-alternatives]
-== kbd:[disqualify] Alternatives
-
-    * <DISQUALIFIED ALTERNATIVE 1>
-    * <DISQUALIFIED ALTERNATIVE 2>
-    * <DISQUALIFIED ALTERNATIVE 3>
-
-
-[define-criteria]
-== kbd:[define] Criteria
-
-    * <CRITERIA 1>
-    * <CRITERIA 2>
-    * <CRITERIA 3>
-    * <CRITERIA 4>
-
-
-== kbd:[decide-<STATUS: To-Do OR In-Progress OR Done>-<START-DATE-to-END-DATE>] Conclusion
-
-    * _Chosen Alternative: <ALTERNATIVE 1>_
-    * <FURTHER RATIONALE (Optional)>
-
-
-[compare-alternatives]
-== kbd:[compare] Alternatives
+[alternatives]
+== Alternatives kbd:[compare] 
 
 .Detailed comparison of alternatives based on defined criteria
 [cols=",,,",options="header"]
@@ -71,18 +58,13 @@
 |<Criteria 3>       |_- <CONTRA>_           |_+ <PRO>_              |_~ <UNCLEAR>_
 |===
 
-
-[label-tags]
-== kbd:[label] Tags
-
-	co-create, log-decisions, decide, use-Resources, Templates
+[tags]
+== Tags kbd:[label]
+source, co-create, decide, resource, adopt, Templates, log, Decisions, Agile, Sustainability, Comprehensibility, Detailed-Decision
 	
-	
-[reference-sources]
-== kbd:[reference-sources]
-
+[sources]
+== Sources kbd:[reference]
 * Source Nr 1
 * Source Nr 2
 	** Source Nr 2.1 (related to higher source)
 * Source Nr 3
-

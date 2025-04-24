@@ -1,0 +1,53 @@
+= Very Simple Decision on "Choosing the Best Course of Action" kbd:[name, Title]
+:experimental:
+
+NOTE: This template is for Very Simple Decisions, characterised by clear choices and minimal uncertainty.
+
+[[visibility]]
+== Visibility kbd:[co-create]
+
+.Overview information of this decision
+[width="50%",cols=">s,",frame="all",options=""]
+|==========================
+|Status         |kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>] (Usually a very simple decision does not take more than one day)
+|Stakeholders   |Who is involved in deciding this?  (Remove "Stakeholders" unless multiple parties are genuinely involved, as very simple decisions typically involve one decision-maker.)
+|Owner          |Who is responsible for seeing this decision through?
+|Outcome        |What is the desired outcome (goal)?
+|Due date       |When is a conclusion of this decision needed?
+|==========================
+
+[[decider-story]]
+== Decider Story (Optional) kbd:[specify, BDD-Stories]
+....
+As a Co-Decider
+I want to decide on the best course of action,
+so that our decisions are sustainable and comprehensible.
+....
+
+[[background-information]]
+== Background Information (Optional) kbd:[describe, Brief-Context] 
+Brief context for the decision, if needed.
+
+[[considered-alternatives]]
+== Considered Alternatives kbd:[consider] 
+* <ALTERNATIVE 1>
+* <ALTERNATIVE 2>
+* <ALTERNATIVE 3>
+
+[[criteria-to-satisfy]]
+== Criteria to Satsify kbd:[satisfy]
+* <CRITERION 1> (e.g., meets immediate need)
+* <CRITERION 2> (e.g., minimal effort)
+
+[[conclusion]]
+== Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>, reach, formulate]
+* _Chosen Alternative: <ALTERNATIVE 1>_
+* <FURTHER RATIONALE (Optional)>
+
+[[sources]]
+== Sources kbd:[reference]
+* Source Nr 1
+* Source Nr 2
+  ** Source Nr 2.1 (related to higher source)
+* Source Nr 3
+

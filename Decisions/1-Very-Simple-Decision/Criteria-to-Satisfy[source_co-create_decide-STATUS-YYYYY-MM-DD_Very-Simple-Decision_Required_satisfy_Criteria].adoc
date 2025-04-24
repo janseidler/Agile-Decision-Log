@@ -1,0 +1,6 @@
+[[criteria-to-satisfy]]
+== Criteria to Satsify kbd:[satisfy]
+:experimental:
+* <CRITERION 1> (e.g., meets immediate need)
+* <CRITERION 2> (e.g., minimal effort)
+

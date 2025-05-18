@@ -1,0 +1,11 @@
+.Overview information of this decision
+:experimental:
+[width="50%",cols=">s,",frame="all",options=""]
+|==========================
+|Status         |kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>] (Usually a very simple decision does not take more than one day)
+|Stakeholders   |Who is involved in deciding this?  (Remove "Stakeholders" unless multiple parties are genuinely involved, as very simple decisions typically involve one decision-maker.)
+|Owner          |Who is responsible for seeing this decision through?
+|Outcome        |What is the desired outcome (goal)?
+|Due date       |When is a conclusion of this decision needed?
+|==========================
+

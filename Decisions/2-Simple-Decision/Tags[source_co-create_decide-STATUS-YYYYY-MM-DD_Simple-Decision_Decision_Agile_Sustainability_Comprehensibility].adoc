@@ -1,0 +1,11 @@
+[[tags]]
+== Tags kbd:[label]
+* source
+* co-create
+* decide-STATUS-YYYYY-MM-DD
+* Simple-Decision
+* Decision
+* Agile
+* Sustainability
+* Comprehensibility
+

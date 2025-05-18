@@ -1,0 +1,8 @@
+[[considered-alternatives]]
+== Considered Alternatives kbd:[consider] 
+:experimental:
+* <ALTERNATIVE 1>
+* <ALTERNATIVE 2>
+* <ALTERNATIVE 3>
+* <ALTERNATIVE 4> (Optional)
+

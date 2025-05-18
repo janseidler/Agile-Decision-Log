@@ -44,6 +44,17 @@ Brief context for the decision, if needed.
 * _Chosen Alternative: <ALTERNATIVE 1>_
 * <FURTHER RATIONALE (Optional)>
 
+[[tags]]
+== Tags kbd:[label]
+* source
+* co-create
+* decide-STATUS-YYYYY-MM-DD
+* Very-Simple-Decision
+* Decision
+* Agile
+* Sustainability
+* Comprehensibility
+
 [[sources]]
 == Sources kbd:[reference]
 * Source Nr 1

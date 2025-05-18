@@ -1,0 +1,7 @@
+[[criteria-to-satisfy]]
+== Criteria to Satsify kbd:[satisfy]
+:experimental:
+* <CRITERION 1> (e.g., cost-effectiveness)
+* <CRITERION 2> (e.g., feasibility)
+* <CRITERION 3> (e.g., alignment with goals, optional)
+

@@ -1,0 +1,66 @@
+= Simple Decision on "Choosing the Best Course of Action" kbd:[name, Title]
+:experimental:
+
+NOTE: This template is for Simple Decisions, characterised by clear choices with minor judgment or analysis.
+
+[[visibility]]
+== Visibility kbd:[co-create]
+
+.Overview information of this decision
+[width="50%",cols=">s,",frame="all",options=""]
+|==========================
+|Status         |kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>] (Typical duration: 5 to 60 minutes)
+|Stakeholders   |Who is involved in deciding this? (Optional)
+|Owner          |Who is responsible for seeing this decision through?
+|Outcome        |What is the desired outcome (goal)?
+|Due date       |When is a conclusion of this decision needed?
+|==========================
+
+[[decider-story]]
+== Decider Story kbd:[specify, BDD-Story]
+....
+As a Co-Decider
+I want to decide on the best course of action,
+so that our decisions are sustainable and comprehensible.
+....
+
+[[background-information]]
+== Background Information (Optional) kbd:[describe, Brief-Context] 
+Brief context for the decision, if needed.
+
+[[considered-alternatives]]
+== Considered Alternatives kbd:[consider] 
+* <ALTERNATIVE 1>
+* <ALTERNATIVE 2>
+* <ALTERNATIVE 3>
+* <ALTERNATIVE 4> (Optional)
+
+[[criteria-to-satisfy]]
+== Criteria to Satsify kbd:[satisfy]
+* <CRITERION 1> (e.g., cost-effectiveness)
+* <CRITERION 2> (e.g., feasibility)
+* <CRITERION 3> (e.g., alignment with goals, optional)
+
+[[conclusion]]
+== Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>, reach, formulate]
+* _Chosen Alternative: <ALTERNATIVE 1>_
+* <FURTHER RATIONALE>
+
+[[tags]]
+== Tags kbd:[label]
+* source
+* co-create
+* decide-STATUS-YYYYY-MM-DD
+* Simple-Decision
+* Decision
+* Agile
+* Sustainability
+* Comprehensibility
+
+[[sources]]
+== Sources kbd:[reference]
+* Source Nr 1
+* Source Nr 2
+  ** Source Nr 2.1 (related to higher source)
+* Source Nr 3
+

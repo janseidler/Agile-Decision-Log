@@ -1,0 +1,5 @@
+= Simple Decision on "Choosing the Best Course of Action" kbd:[name, Title]
+:experimental:
+
+NOTE: This template is for Simple Decisions, characterized by clear choices with minor judgment or analysis.
+

@@ -1,0 +1,5 @@
+[[background-information]]
+== Background Information (Optional) kbd:[describe, Brief-Context] 
+:experimental:
+Brief context for the decision, if needed.
+

@@ -1,6 +1,5 @@
 [[conclusion]]
-== Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>, reach, formulate]
-:experimental:
-* _Chosen Alternative: <ALTERNATIVE 1>_
-* <FURTHER RATIONALE>
+== Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>, reach, formulate]
+* _Chosen Option: <Option X>_
+* <FURTHER RATIONALE (Optional)>
 

@@ -1,0 +1,11 @@
+.Overview information of this decision
+:experimental:
+[width="50%",cols=">s,",frame="all",options=""]
+|==========================
+|Status         |kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>]
+|Stakeholders   |Who is involved in deciding this?  
+|Outcome        |What is the desired outcome?
+|Due date       |When is the due date of this decision?
+|Owner          |Who is responsible for seeing this decision through?
+|==========================
+

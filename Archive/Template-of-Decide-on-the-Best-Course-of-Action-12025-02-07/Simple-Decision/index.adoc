@@ -1,0 +1,76 @@
+= Decide on "Simply Choosing the Best Course of Action" kbd:[name, Titles]
+:experimental:
+
+[[visibility]]
+== Visibility kbd:[co-create]
+
+.Overview information of this decision
+[width="50%",cols=">s,",frame="all",options=""]
+|==========================
+|Status         |kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>]
+|Stakeholders   |Who is involved in deciding this?  
+|Outcome        |What is the desired outcome?
+|Due date       |When is the due date of this decision?
+|Owner          |Who is responsible for seeing this decision through?
+|==========================
+
+[[decider-story]]
+== Decider Story kbd:[specify]
+As a ... [role]
+I want decide on ... [feature],
+so that ... [benefit].
+
+[[background]]
+== Background Information kbd:[describe] 
+Further information explaining the decision to be made.
+
+[[considered-alternatives]]
+== Considered Alternatives kbd:[consider] 
+* <ALTERNATIVE 1>
+* <ALTERNATIVE 2>
+* <ALTERNATIVE 3>
+
+[[disqualified-alternatives]]
+== Disqualified Alternatives kbd:[disqualify]
+* <DISQUALIFIED ALTERNATIVE 1>
+* <DISQUALIFIED ALTERNATIVE 2>
+* <DISQUALIFIED ALTERNATIVE 3>
+
+[[criteria-to-satisfy]]
+== Criteria to Satsify kbd:[satisfy]
+* <CRITERION 1>
+* <CRITERION 2>
+* <CRITERION 3>
+* <CRITERION 4>
+
+[[conclusion]]
+== Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>, formulate]
+* _Chosen Alternative: <ALTERNATIVE 1>_
+* <FURTHER RATIONALE (Optional)>
+
+[[tags-for-bookmark]]
+== Tags for Bookmark kbd:[bookmark]
+source, co-create, decide, resource, adopt, Templates, log, Decisions, Agile, Sustainability, Comprehensibility, Simple-Decision
+
+[[tags]]
+== Tags kbd:[label]
+* source
+* co-create
+* decide-STATUS-YYYYY-MM-DD
+* Simple-Decisions
+* resource
+* adopt
+* Templates
+* log
+* Decisions
+* Agile
+* Sustainability
+* Comprehensibility
+	
+[[sources]]
+== Sources kbd:[reference]
+* Source Nr 1
+* Source Nr 2
+	** Source Nr 2.1 (related to higher source)
+* Source Nr 3
+

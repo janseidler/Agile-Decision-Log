@@ -1,0 +1,7 @@
+[disqualified-alternatives]
+== Disqualified Alternatives kbd:[disqualify]
+:experimental:
+* <DISQUALIFIED ALTERNATIVE 1>
+* <DISQUALIFIED ALTERNATIVE 2>
+* <DISQUALIFIED ALTERNATIVE 3>
+

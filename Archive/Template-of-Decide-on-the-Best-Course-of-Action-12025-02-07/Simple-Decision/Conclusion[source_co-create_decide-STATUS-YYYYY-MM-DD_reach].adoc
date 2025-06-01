@@ -1,0 +1,5 @@
+== Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>-<START-DATE-TO-END-DATE>, formulate]
+:experimental:
+* _Chosen Alternative: <ALTERNATIVE 1>_
+* <FURTHER RATIONALE (Optional)>
+

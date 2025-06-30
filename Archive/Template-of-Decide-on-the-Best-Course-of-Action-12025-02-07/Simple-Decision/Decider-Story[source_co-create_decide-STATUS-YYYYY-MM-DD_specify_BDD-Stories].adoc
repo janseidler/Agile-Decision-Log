@@ -1,0 +1,8 @@
+== Decider Story kbd:[specify, BDD-Stories]
+:experimental:
+....
+As a Co-Decider
+I want to decide on the best course of action,
+so that our decisions are sustainable and comprehensible.
+....
+

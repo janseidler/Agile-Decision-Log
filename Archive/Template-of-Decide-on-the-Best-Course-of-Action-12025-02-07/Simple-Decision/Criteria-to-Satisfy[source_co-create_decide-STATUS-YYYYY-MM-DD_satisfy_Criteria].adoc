@@ -1,0 +1,7 @@
+[criteria-to-satisfy]
+== Criteria to Satsify kbd:[satisfy]
+* <CRITERION 1>
+* <CRITERION 2>
+* <CRITERION 3>
+* <CRITERION 4>
+

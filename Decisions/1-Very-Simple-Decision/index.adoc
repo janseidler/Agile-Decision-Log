@@ -6,6 +6,9 @@ NOTE: This template is for Very Simple Decisions, characterised by clear choices
 [[visibility]]
 == Visibility kbd:[co-create]
 
+[[complexity]]
+== Complexity kbd:[Very-Simple-Decision]
+
 .Overview information of this decision
 [width="50%",cols=">s,",frame="all",options=""]
 |==========================
@@ -28,11 +31,11 @@ so that our decisions are sustainable and comprehensible.
 == Background Information (Optional) kbd:[describe, Brief-Context] 
 Brief context for the decision, if needed.
 
-[[considered-alternatives]]
-== Considered Alternatives kbd:[consider] 
-* <ALTERNATIVE 1>
-* <ALTERNATIVE 2>
-* <ALTERNATIVE 3>
+[[considered-options]]
+== Considered Options kbd:[consider] 
+* <Option 1>
+* <Option 2>
+* <Option 3>
 
 [[criteria-to-satisfy]]
 == Criteria to Satsify kbd:[satisfy]
@@ -41,7 +44,7 @@ Brief context for the decision, if needed.
 
 [[conclusion]]
 == Conclusion kbd:[decide-<STATUS: TO-DO OR IN-PROGRESS OR DONE>, reach, formulate]
-* _Chosen Alternative: <ALTERNATIVE 1>_
+* _Chosen Option: <Option X>_
 * <FURTHER RATIONALE (Optional)>
 
 [[tags]]

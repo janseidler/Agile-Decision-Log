@@ -6,6 +6,9 @@ NOTE: This template is for Very Simple Decisions, characterised by clear choices
 [[visibility]]
 == Visibility kbd:[co-create]
 
+[[complexity]]
+== Complexity kbd:[Very-Simple-Decision]
+
 .Overview information of this decision
 [width="50%",cols=">s,",frame="all",options=""]
 |==========================
